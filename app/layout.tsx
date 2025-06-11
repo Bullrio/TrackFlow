@@ -13,3 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+export const metadata = {
+  title: 'TrackFlow',
+  description: 'Mini app interaktif Farcaster untuk YouTube & Spotify',
+};
