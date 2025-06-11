@@ -1,1 +1,0 @@
-// Metadata fetching logic (YouTube/Spotify)
