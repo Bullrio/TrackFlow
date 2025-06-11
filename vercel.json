@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "src": "/api/frame", "dest": "/api/frame.ts" },
+    { "src": "/api/submit", "dest": "/api/submit.ts" }
+  ]
+}
