@@ -1,1 +1,0 @@
-// Interactive frame buttons component
